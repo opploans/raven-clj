@@ -2,6 +2,8 @@
 
 A Clojure interface to Sentry.
 
+# _DEPRECATED_ -- do not use!!!
+
 [Usage](#usage) | [Ring Middleware](#ring-middleware) | [Alternatives](#alternatives) | [Changes](#changes) | [Contributing](#contributing)
 
 ## Usage
